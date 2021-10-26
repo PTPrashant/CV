@@ -1,0 +1,260 @@
+body {
+  margin: 0 0 0 0;
+  background-color: lightcyan;
+  text-align: center;
+}
+
+.bar-div {
+  margin-top: 0;
+  width: 100%;
+  height: 30px;
+  background-color: darkcyan;
+}
+
+
+.top-div {
+  width: 100%;
+  height: 330px;
+  background-color: #66BFBF;
+}
+
+.relative {
+  position: relative;
+}
+
+.inline {
+  display: inline;
+}
+
+.nomargin-top {
+  margin-top: 0;
+}
+
+.nomargin-bottom {
+  margin-bottom: 0;
+}
+
+.font {
+  font-family: cursive;
+}
+
+.center {
+  text-align: center;
+}
+
+h2 {
+  margin-top: 0;
+  color: blue;
+}
+
+.absolute {
+  position: absolute;
+}
+
+.block {
+  display: block;
+}
+
+.div-block {
+  width: 60%;
+  margin-left: 20%;
+}
+
+.pink {
+  background-color: pink;
+}
+
+hr {
+  background-color: none;
+  border-style: dotted none none none;
+  width: 10%;
+  border-color: grey;
+  border-width: 5px;
+  text-align: left;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.skills-block {
+  width: 1100px;
+  margin-left: 20%;
+}
+
+.achieve-block {
+  width: 500px;
+  margin-left: 21%;
+  font-family: cursive;
+}
+
+.left {
+  text-align: left;
+}
+
+.work {
+  position: absolute;
+  right: 1270px;
+}
+
+.left-margin {
+  margin-left: 21%;
+}
+
+.div-left {
+  border-radius: 25px;
+  background-color: #66BFBF;
+  width: 250px;
+  height: 150px;
+  position: absolute;
+  left: 15%;
+}
+
+.div-left:hover {
+  background-color: aquamarine;
+}
+
+.div-middle {
+  border-radius: 25px;
+  background-color: #66BFBF;
+  width: 300px;
+  height: 150px;
+  position: absolute;
+  left: 35%;
+}
+
+.div-middle:hover {
+  background-color: aquamarine;
+}
+
+.div-middle:hover .onhover {
+  background-color: aliceblue;
+}
+
+.div-right {
+  border-radius: 25px;
+  background-color: #66BFBF;
+  width: 300px;
+  height: 150px;
+  position: absolute;
+  left: 60%;
+}
+
+.div-right:hover {
+  background-color: aquamarine;
+}
+
+.Strenghts {
+  border-radius: 25px;
+  background-color: #66BFBF;
+  width: 250px;
+  height: 180px;
+  position: absolute;
+  left: 30%;
+}
+
+.Strenghts:hover {
+  background-color: aquamarine;
+}
+
+.Hobbies {
+  border-radius: 25px;
+  background-color: #66BFBF;
+  width: 250px;
+  height: 180px;
+  position: absolute;
+  left: 52%;
+}
+
+.Hobbies:hover {
+  background-color: aquamarine;
+}
+
+.div-bottom {
+  width: 100%;
+  height: 80px;
+  background-color: #66BFBF;
+  bottom: 0px;
+}
+
+.div-bottom-contactme{
+  position: absolute;
+  width: 100%;
+  height: 80px;
+  background-color: #66BFBF;
+  bottom: 0;
+
+}
+
+.float-right {
+  float: right;
+}
+
+h3 {
+  margin-top: 3px;
+  color: black;
+}
+
+.cv-image {
+  margin-top: 10px;
+  width: 90px;
+  margin-bottom: 0;
+}
+
+.cv-intern {
+  margin-top: 40px;
+  width: 110px;
+  margin-bottom: 0;
+}
+
+.about-me {
+  position: absolute;
+  left: 70%
+}
+
+.project {
+  position: absolute;
+  left: 77%;
+}
+
+.contact-me {
+  position: absolute;
+  left: 88%;
+}
+
+.cv {
+  position: absolute;
+  left: 67%
+}
+
+.Color:hover {
+  color: crimson;
+}
+
+.div-block-Xamarin {
+  width: 60%;
+  margin-left: 30%;
+}
+
+
+.top-div-project {
+  margin-top:0;
+  width: 100%;
+  height: 170px;
+  background-color: #66BFBF;
+}
+
+.top-div-aboutme {
+  width: 100%;
+  height: 270px;
+  background-color: #66BFBF;
+}
+
+.this-page {
+  color: oldlace;
+}
+
+.project-image {
+  position: absolute;
+  height: 80px;
+  width: 110px;
+  right: 72%;
+}
