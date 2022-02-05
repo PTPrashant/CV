@@ -258,3 +258,19 @@ h3 {
   width: 110px;
   right: 72%;
 }
+
+a{
+  color: rgba(47, 0, 218, 0.925);
+  text-decoration: none;
+}
+a:hover{
+  color: red;
+}
+
+.copyright{
+  font-size:15px;
+}
+
+
+
+
